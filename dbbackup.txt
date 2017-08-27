@@ -1,2 +1,0 @@
-https://www.howtogeek.com/50299/batch-script-to-backup-all-your-sql-server-databases/
-https://www.howtogeek.com/50295/backup-your-sql-server-database-from-the-command-line/
